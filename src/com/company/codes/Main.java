@@ -1,4 +1,4 @@
-package com.company;
+package com.company.codes;
 class Test {
     int a,b;
     Test (int i, int j) {
